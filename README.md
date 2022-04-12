@@ -1,0 +1,2 @@
+# skeletonDonateSystem
+скелет системы донанта
